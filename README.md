@@ -1,2 +1,2 @@
-# DAMI-HT2015
+# DAMI-H2015
 Data Mining
