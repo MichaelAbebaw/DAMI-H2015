@@ -1,6 +1,4 @@
-######################## DAMI Programming Assignment 2: Classification #########################
-# Create a dataset
-# The "almost" same example from the lecture
+# 
 
 buys <- c("no", "no", "yes", "yes", "yes", "no", "yes", "no", "yes", "yes", "yes", "yes", "yes", "no")
 credit <- c("fair", "excellent", "fair", "fair", "fair", "excellent", "excellent", "fair", "fair", "fair", "excellent", "excellent", "fair", "excellent")
